@@ -1,0 +1,949 @@
+,Year,Local Government Area,Charge Status,Incidents Recorded
+0,2022,Alpine,Charges laid,149
+1,2022,Alpine,No charges laid,114
+2,2022,Alpine,Unsolved,108
+3,2022,Ararat,Charges laid,467
+4,2022,Ararat,No charges laid,217
+5,2022,Ararat,Unsolved,276
+6,2022,Ballarat,Charges laid,2512
+7,2022,Ballarat,No charges laid,1083
+8,2022,Ballarat,Unsolved,3999
+9,2022,Banyule,Charges laid,2087
+10,2022,Banyule,No charges laid,882
+11,2022,Banyule,Unsolved,2275
+12,2022,Bass Coast,Charges laid,811
+13,2022,Bass Coast,No charges laid,539
+14,2022,Bass Coast,Unsolved,797
+15,2022,Baw Baw,Charges laid,1273
+16,2022,Baw Baw,No charges laid,773
+17,2022,Baw Baw,Unsolved,990
+18,2022,Bayside,Charges laid,786
+19,2022,Bayside,No charges laid,553
+20,2022,Bayside,Unsolved,2007
+21,2022,Benalla,Charges laid,420
+22,2022,Benalla,No charges laid,219
+23,2022,Benalla,Unsolved,339
+24,2022,Boroondara,Charges laid,1330
+25,2022,Boroondara,No charges laid,663
+26,2022,Boroondara,Unsolved,3455
+27,2022,Brimbank,Charges laid,4014
+28,2022,Brimbank,No charges laid,1669
+29,2022,Brimbank,Unsolved,6647
+30,2022,Buloke,Charges laid,52
+31,2022,Buloke,No charges laid,83
+32,2022,Buloke,Unsolved,89
+33,2022,Campaspe,Charges laid,843
+34,2022,Campaspe,No charges laid,580
+35,2022,Campaspe,Unsolved,996
+36,2022,Cardinia,Charges laid,1424
+37,2022,Cardinia,No charges laid,1034
+38,2022,Cardinia,Unsolved,2160
+39,2022,Casey,Charges laid,4446
+40,2022,Casey,No charges laid,2883
+41,2022,Casey,Unsolved,6825
+42,2022,Central Goldfields,Charges laid,319
+43,2022,Central Goldfields,No charges laid,238
+44,2022,Central Goldfields,Unsolved,266
+45,2022,Colac-Otway,Charges laid,457
+46,2022,Colac-Otway,No charges laid,364
+47,2022,Colac-Otway,Unsolved,393
+48,2022,Corangamite,Charges laid,243
+49,2022,Corangamite,No charges laid,88
+50,2022,Corangamite,Unsolved,249
+51,2022,Darebin,Charges laid,3055
+52,2022,Darebin,No charges laid,1491
+53,2022,Darebin,Unsolved,4730
+54,2022,East Gippsland,Charges laid,1354
+55,2022,East Gippsland,No charges laid,1067
+56,2022,East Gippsland,Unsolved,1219
+57,2022,Frankston,Charges laid,3513
+58,2022,Frankston,No charges laid,1798
+59,2022,Frankston,Unsolved,3008
+60,2022,Gannawarra,Charges laid,214
+61,2022,Gannawarra,No charges laid,137
+62,2022,Gannawarra,Unsolved,214
+63,2022,Glen Eira,Charges laid,1201
+64,2022,Glen Eira,No charges laid,813
+65,2022,Glen Eira,Unsolved,3018
+66,2022,Glenelg,Charges laid,542
+67,2022,Glenelg,No charges laid,327
+68,2022,Glenelg,Unsolved,334
+69,2022,Golden Plains,Charges laid,130
+70,2022,Golden Plains,No charges laid,63
+71,2022,Golden Plains,Unsolved,227
+72,2022,Greater Bendigo,Charges laid,2983
+73,2022,Greater Bendigo,No charges laid,1480
+74,2022,Greater Bendigo,Unsolved,3038
+75,2022,Greater Dandenong,Charges laid,4022
+76,2022,Greater Dandenong,No charges laid,2083
+77,2022,Greater Dandenong,Unsolved,5264
+78,2022,Greater Geelong,Charges laid,5517
+79,2022,Greater Geelong,No charges laid,2376
+80,2022,Greater Geelong,Unsolved,6676
+81,2022,Greater Shepparton,Charges laid,2506
+82,2022,Greater Shepparton,No charges laid,987
+83,2022,Greater Shepparton,Unsolved,2292
+84,2022,Hepburn,Charges laid,135
+85,2022,Hepburn,No charges laid,65
+86,2022,Hepburn,Unsolved,236
+87,2022,Hindmarsh,Charges laid,109
+88,2022,Hindmarsh,No charges laid,55
+89,2022,Hindmarsh,Unsolved,140
+90,2022,Hobsons Bay,Charges laid,1448
+91,2022,Hobsons Bay,No charges laid,773
+92,2022,Hobsons Bay,Unsolved,2378
+93,2022,Horsham,Charges laid,784
+94,2022,Horsham,No charges laid,357
+95,2022,Horsham,Unsolved,467
+96,2022,Hume,Charges laid,4094
+97,2022,Hume,No charges laid,2495
+98,2022,Hume,Unsolved,5607
+99,2022,Indigo,Charges laid,125
+100,2022,Indigo,No charges laid,108
+101,2022,Indigo,Unsolved,232
+102,2022,Kingston,Charges laid,2114
+103,2022,Kingston,No charges laid,1218
+104,2022,Kingston,Unsolved,3491
+105,2022,Knox,Charges laid,2375
+106,2022,Knox,No charges laid,1544
+107,2022,Knox,Unsolved,2712
+108,2022,Latrobe,Charges laid,3454
+109,2022,Latrobe,No charges laid,1992
+110,2022,Latrobe,Unsolved,2380
+111,2022,Loddon,Charges laid,158
+112,2022,Loddon,No charges laid,69
+113,2022,Loddon,Unsolved,160
+114,2022,Macedon Ranges,Charges laid,528
+115,2022,Macedon Ranges,No charges laid,364
+116,2022,Macedon Ranges,Unsolved,499
+117,2022,Manningham,Charges laid,783
+118,2022,Manningham,No charges laid,570
+119,2022,Manningham,Unsolved,1514
+120,2022,Mansfield,Charges laid,125
+121,2022,Mansfield,No charges laid,94
+122,2022,Mansfield,Unsolved,120
+123,2022,Maribyrnong,Charges laid,1758
+124,2022,Maribyrnong,No charges laid,872
+125,2022,Maribyrnong,Unsolved,4395
+126,2022,Maroondah,Charges laid,2055
+127,2022,Maroondah,No charges laid,1023
+128,2022,Maroondah,Unsolved,2016
+129,2022,Melbourne,Charges laid,7434
+130,2022,Melbourne,No charges laid,5824
+131,2022,Melbourne,Unsolved,11778
+132,2022,Melton,Charges laid,2852
+133,2022,Melton,No charges laid,1328
+134,2022,Melton,Unsolved,4625
+135,2022,Mildura,Charges laid,1978
+136,2022,Mildura,No charges laid,1167
+137,2022,Mildura,Unsolved,1750
+138,2022,Mitchell,Charges laid,882
+139,2022,Mitchell,No charges laid,658
+140,2022,Mitchell,Unsolved,810
+141,2022,Moira,Charges laid,718
+142,2022,Moira,No charges laid,284
+143,2022,Moira,Unsolved,571
+144,2022,Monash,Charges laid,2442
+145,2022,Monash,No charges laid,1215
+146,2022,Monash,Unsolved,4652
+147,2022,Moonee Valley,Charges laid,1856
+148,2022,Moonee Valley,No charges laid,997
+149,2022,Moonee Valley,Unsolved,3165
+150,2022,Moorabool,Charges laid,522
+151,2022,Moorabool,No charges laid,400
+152,2022,Moorabool,Unsolved,651
+153,2022,Moreland,Charges laid,2363
+154,2022,Moreland,No charges laid,1195
+155,2022,Moreland,Unsolved,5615
+156,2022,Mornington Peninsula,Charges laid,2169
+157,2022,Mornington Peninsula,No charges laid,1732
+158,2022,Mornington Peninsula,Unsolved,2519
+159,2022,Mount Alexander,Charges laid,275
+160,2022,Mount Alexander,No charges laid,147
+161,2022,Mount Alexander,Unsolved,294
+162,2022,Moyne,Charges laid,222
+163,2022,Moyne,No charges laid,94
+164,2022,Moyne,Unsolved,230
+165,2022,Murrindindi,Charges laid,167
+166,2022,Murrindindi,No charges laid,154
+167,2022,Murrindindi,Unsolved,210
+168,2022,Nillumbik,Charges laid,421
+169,2022,Nillumbik,No charges laid,320
+170,2022,Nillumbik,Unsolved,578
+171,2022,Northern Grampians,Charges laid,352
+172,2022,Northern Grampians,No charges laid,236
+173,2022,Northern Grampians,Unsolved,218
+174,2022,Port Phillip,Charges laid,2471
+175,2022,Port Phillip,No charges laid,1361
+176,2022,Port Phillip,Unsolved,5325
+177,2022,Pyrenees,Charges laid,100
+178,2022,Pyrenees,No charges laid,49
+179,2022,Pyrenees,Unsolved,153
+180,2022,Queenscliffe,Charges laid,28
+181,2022,Queenscliffe,No charges laid,17
+182,2022,Queenscliffe,Unsolved,73
+183,2022,South Gippsland,Charges laid,536
+184,2022,South Gippsland,No charges laid,255
+185,2022,South Gippsland,Unsolved,403
+186,2022,Southern Grampians,Charges laid,436
+187,2022,Southern Grampians,No charges laid,167
+188,2022,Southern Grampians,Unsolved,196
+189,2022,Stonnington,Charges laid,1937
+190,2022,Stonnington,No charges laid,1231
+191,2022,Stonnington,Unsolved,4652
+192,2022,Strathbogie,Charges laid,173
+193,2022,Strathbogie,No charges laid,97
+194,2022,Strathbogie,Unsolved,176
+195,2022,Surf Coast,Charges laid,334
+196,2022,Surf Coast,No charges laid,219
+197,2022,Surf Coast,Unsolved,496
+198,2022,Swan Hill,Charges laid,828
+199,2022,Swan Hill,No charges laid,494
+200,2022,Swan Hill,Unsolved,374
+201,2022,Towong,Charges laid,35
+202,2022,Towong,No charges laid,30
+203,2022,Towong,Unsolved,83
+204,2022,Wangaratta,Charges laid,789
+205,2022,Wangaratta,No charges laid,395
+206,2022,Wangaratta,Unsolved,471
+207,2022,Warrnambool,Charges laid,988
+208,2022,Warrnambool,No charges laid,483
+209,2022,Warrnambool,Unsolved,736
+210,2022,Wellington,Charges laid,1159
+211,2022,Wellington,No charges laid,756
+212,2022,Wellington,Unsolved,1049
+213,2022,West Wimmera,Charges laid,52
+214,2022,West Wimmera,No charges laid,41
+215,2022,West Wimmera,Unsolved,58
+216,2022,Whitehorse,Charges laid,1579
+217,2022,Whitehorse,No charges laid,832
+218,2022,Whitehorse,Unsolved,3048
+219,2022,Whittlesea,Charges laid,3028
+220,2022,Whittlesea,No charges laid,2072
+221,2022,Whittlesea,Unsolved,3839
+222,2022,Wodonga,Charges laid,917
+223,2022,Wodonga,No charges laid,560
+224,2022,Wodonga,Unsolved,1205
+225,2022,Wyndham,Charges laid,3868
+226,2022,Wyndham,No charges laid,1978
+227,2022,Wyndham,Unsolved,6248
+228,2022,Yarra,Charges laid,2351
+229,2022,Yarra,No charges laid,1278
+230,2022,Yarra,Unsolved,5161
+231,2022,Yarra Ranges,Charges laid,1613
+232,2022,Yarra Ranges,No charges laid,1290
+233,2022,Yarra Ranges,Unsolved,2083
+234,2022,Yarriambiack,Charges laid,128
+235,2022,Yarriambiack,No charges laid,74
+236,2022,Yarriambiack,Unsolved,102
+237,2021,Alpine,Charges laid,177
+238,2021,Alpine,No charges laid,119
+239,2021,Alpine,Unsolved,104
+240,2021,Ararat,Charges laid,594
+241,2021,Ararat,No charges laid,259
+242,2021,Ararat,Unsolved,234
+243,2021,Ballarat,Charges laid,3045
+244,2021,Ballarat,No charges laid,1088
+245,2021,Ballarat,Unsolved,3055
+246,2021,Banyule,Charges laid,2742
+247,2021,Banyule,No charges laid,1225
+248,2021,Banyule,Unsolved,2319
+249,2021,Bass Coast,Charges laid,907
+250,2021,Bass Coast,No charges laid,554
+251,2021,Bass Coast,Unsolved,635
+252,2021,Baw Baw,Charges laid,1639
+253,2021,Baw Baw,No charges laid,864
+254,2021,Baw Baw,Unsolved,1082
+255,2021,Bayside,Charges laid,1158
+256,2021,Bayside,No charges laid,741
+257,2021,Bayside,Unsolved,1928
+258,2021,Benalla,Charges laid,477
+259,2021,Benalla,No charges laid,219
+260,2021,Benalla,Unsolved,299
+261,2021,Boroondara,Charges laid,1673
+262,2021,Boroondara,No charges laid,867
+263,2021,Boroondara,Unsolved,3414
+264,2021,Brimbank,Charges laid,5556
+265,2021,Brimbank,No charges laid,2984
+266,2021,Brimbank,Unsolved,5974
+267,2021,Buloke,Charges laid,105
+268,2021,Buloke,No charges laid,74
+269,2021,Buloke,Unsolved,65
+270,2021,Campaspe,Charges laid,1072
+271,2021,Campaspe,No charges laid,506
+272,2021,Campaspe,Unsolved,878
+273,2021,Cardinia,Charges laid,2043
+274,2021,Cardinia,No charges laid,1546
+275,2021,Cardinia,Unsolved,1974
+276,2021,Casey,Charges laid,5757
+277,2021,Casey,No charges laid,4311
+278,2021,Casey,Unsolved,6069
+279,2021,Central Goldfields,Charges laid,396
+280,2021,Central Goldfields,No charges laid,200
+281,2021,Central Goldfields,Unsolved,224
+282,2021,Colac-Otway,Charges laid,553
+283,2021,Colac-Otway,No charges laid,373
+284,2021,Colac-Otway,Unsolved,300
+285,2021,Corangamite,Charges laid,303
+286,2021,Corangamite,No charges laid,167
+287,2021,Corangamite,Unsolved,212
+288,2021,Darebin,Charges laid,4328
+289,2021,Darebin,No charges laid,2152
+290,2021,Darebin,Unsolved,4995
+291,2021,East Gippsland,Charges laid,1680
+292,2021,East Gippsland,No charges laid,993
+293,2021,East Gippsland,Unsolved,956
+294,2021,Frankston,Charges laid,4518
+295,2021,Frankston,No charges laid,2781
+296,2021,Frankston,Unsolved,2908
+297,2021,Gannawarra,Charges laid,320
+298,2021,Gannawarra,No charges laid,182
+299,2021,Gannawarra,Unsolved,137
+300,2021,Glen Eira,Charges laid,1602
+301,2021,Glen Eira,No charges laid,1202
+302,2021,Glen Eira,Unsolved,3216
+303,2021,Glenelg,Charges laid,594
+304,2021,Glenelg,No charges laid,221
+305,2021,Glenelg,Unsolved,233
+306,2021,Golden Plains,Charges laid,143
+307,2021,Golden Plains,No charges laid,77
+308,2021,Golden Plains,Unsolved,230
+309,2021,Greater Bendigo,Charges laid,3849
+310,2021,Greater Bendigo,No charges laid,1419
+311,2021,Greater Bendigo,Unsolved,2732
+312,2021,Greater Dandenong,Charges laid,5201
+313,2021,Greater Dandenong,No charges laid,3905
+314,2021,Greater Dandenong,Unsolved,5115
+315,2021,Greater Geelong,Charges laid,6993
+316,2021,Greater Geelong,No charges laid,2585
+317,2021,Greater Geelong,Unsolved,5933
+318,2021,Greater Shepparton,Charges laid,2925
+319,2021,Greater Shepparton,No charges laid,1128
+320,2021,Greater Shepparton,Unsolved,1884
+321,2021,Hepburn,Charges laid,170
+322,2021,Hepburn,No charges laid,85
+323,2021,Hepburn,Unsolved,252
+324,2021,Hindmarsh,Charges laid,126
+325,2021,Hindmarsh,No charges laid,56
+326,2021,Hindmarsh,Unsolved,105
+327,2021,Hobsons Bay,Charges laid,1568
+328,2021,Hobsons Bay,No charges laid,1042
+329,2021,Hobsons Bay,Unsolved,1851
+330,2021,Horsham,Charges laid,799
+331,2021,Horsham,No charges laid,360
+332,2021,Horsham,Unsolved,313
+333,2021,Hume,Charges laid,6035
+334,2021,Hume,No charges laid,4243
+335,2021,Hume,Unsolved,5201
+336,2021,Indigo,Charges laid,171
+337,2021,Indigo,No charges laid,90
+338,2021,Indigo,Unsolved,166
+339,2021,Kingston,Charges laid,2841
+340,2021,Kingston,No charges laid,1800
+341,2021,Kingston,Unsolved,3400
+342,2021,Knox,Charges laid,3166
+343,2021,Knox,No charges laid,1770
+344,2021,Knox,Unsolved,3347
+345,2021,Latrobe,Charges laid,4744
+346,2021,Latrobe,No charges laid,1912
+347,2021,Latrobe,Unsolved,2431
+348,2021,Loddon,Charges laid,180
+349,2021,Loddon,No charges laid,84
+350,2021,Loddon,Unsolved,148
+351,2021,Macedon Ranges,Charges laid,861
+352,2021,Macedon Ranges,No charges laid,460
+353,2021,Macedon Ranges,Unsolved,532
+354,2021,Manningham,Charges laid,1159
+355,2021,Manningham,No charges laid,600
+356,2021,Manningham,Unsolved,1612
+357,2021,Mansfield,Charges laid,170
+358,2021,Mansfield,No charges laid,109
+359,2021,Mansfield,Unsolved,109
+360,2021,Maribyrnong,Charges laid,2234
+361,2021,Maribyrnong,No charges laid,1260
+362,2021,Maribyrnong,Unsolved,3554
+363,2021,Maroondah,Charges laid,2591
+364,2021,Maroondah,No charges laid,1162
+365,2021,Maroondah,Unsolved,1955
+366,2021,Melbourne,Charges laid,9306
+367,2021,Melbourne,No charges laid,7522
+368,2021,Melbourne,Unsolved,9129
+369,2021,Melton,Charges laid,3888
+370,2021,Melton,No charges laid,1913
+371,2021,Melton,Unsolved,4082
+372,2021,Mildura,Charges laid,2255
+373,2021,Mildura,No charges laid,1011
+374,2021,Mildura,Unsolved,1139
+375,2021,Mitchell,Charges laid,1575
+376,2021,Mitchell,No charges laid,810
+377,2021,Mitchell,Unsolved,778
+378,2021,Moira,Charges laid,780
+379,2021,Moira,No charges laid,337
+380,2021,Moira,Unsolved,513
+381,2021,Monash,Charges laid,3245
+382,2021,Monash,No charges laid,1934
+383,2021,Monash,Unsolved,4393
+384,2021,Moonee Valley,Charges laid,1868
+385,2021,Moonee Valley,No charges laid,1492
+386,2021,Moonee Valley,Unsolved,2748
+387,2021,Moorabool,Charges laid,702
+388,2021,Moorabool,No charges laid,556
+389,2021,Moorabool,Unsolved,732
+390,2021,Moreland,Charges laid,3158
+391,2021,Moreland,No charges laid,1969
+392,2021,Moreland,Unsolved,5021
+393,2021,Mornington Peninsula,Charges laid,2936
+394,2021,Mornington Peninsula,No charges laid,2233
+395,2021,Mornington Peninsula,Unsolved,2448
+396,2021,Mount Alexander,Charges laid,356
+397,2021,Mount Alexander,No charges laid,146
+398,2021,Mount Alexander,Unsolved,226
+399,2021,Moyne,Charges laid,225
+400,2021,Moyne,No charges laid,122
+401,2021,Moyne,Unsolved,162
+402,2021,Murrindindi,Charges laid,245
+403,2021,Murrindindi,No charges laid,207
+404,2021,Murrindindi,Unsolved,211
+405,2021,Nillumbik,Charges laid,561
+406,2021,Nillumbik,No charges laid,365
+407,2021,Nillumbik,Unsolved,596
+408,2021,Northern Grampians,Charges laid,411
+409,2021,Northern Grampians,No charges laid,258
+410,2021,Northern Grampians,Unsolved,225
+411,2021,Port Phillip,Charges laid,3210
+412,2021,Port Phillip,No charges laid,2131
+413,2021,Port Phillip,Unsolved,4834
+414,2021,Pyrenees,Charges laid,127
+415,2021,Pyrenees,No charges laid,70
+416,2021,Pyrenees,Unsolved,147
+417,2021,Queenscliffe,Charges laid,20
+418,2021,Queenscliffe,No charges laid,11
+419,2021,Queenscliffe,Unsolved,50
+420,2021,South Gippsland,Charges laid,608
+421,2021,South Gippsland,No charges laid,307
+422,2021,South Gippsland,Unsolved,349
+423,2021,Southern Grampians,Charges laid,435
+424,2021,Southern Grampians,No charges laid,185
+425,2021,Southern Grampians,Unsolved,171
+426,2021,Stonnington,Charges laid,2779
+427,2021,Stonnington,No charges laid,1969
+428,2021,Stonnington,Unsolved,4195
+429,2021,Strathbogie,Charges laid,196
+430,2021,Strathbogie,No charges laid,105
+431,2021,Strathbogie,Unsolved,152
+432,2021,Surf Coast,Charges laid,402
+433,2021,Surf Coast,No charges laid,255
+434,2021,Surf Coast,Unsolved,507
+435,2021,Swan Hill,Charges laid,1015
+436,2021,Swan Hill,No charges laid,512
+437,2021,Swan Hill,Unsolved,330
+438,2021,Towong,Charges laid,71
+439,2021,Towong,No charges laid,32
+440,2021,Towong,Unsolved,50
+441,2021,Wangaratta,Charges laid,836
+442,2021,Wangaratta,No charges laid,485
+443,2021,Wangaratta,Unsolved,337
+444,2021,Warrnambool,Charges laid,1217
+445,2021,Warrnambool,No charges laid,437
+446,2021,Warrnambool,Unsolved,546
+447,2021,Wellington,Charges laid,1630
+448,2021,Wellington,No charges laid,809
+449,2021,Wellington,Unsolved,779
+450,2021,West Wimmera,Charges laid,51
+451,2021,West Wimmera,No charges laid,25
+452,2021,West Wimmera,Unsolved,46
+453,2021,Whitehorse,Charges laid,2304
+454,2021,Whitehorse,No charges laid,1286
+455,2021,Whitehorse,Unsolved,3357
+456,2021,Whittlesea,Charges laid,4532
+457,2021,Whittlesea,No charges laid,2905
+458,2021,Whittlesea,Unsolved,4016
+459,2021,Wodonga,Charges laid,1066
+460,2021,Wodonga,No charges laid,575
+461,2021,Wodonga,Unsolved,776
+462,2021,Wyndham,Charges laid,4959
+463,2021,Wyndham,No charges laid,2718
+464,2021,Wyndham,Unsolved,5029
+465,2021,Yarra,Charges laid,3579
+466,2021,Yarra,No charges laid,2304
+467,2021,Yarra,Unsolved,4944
+468,2021,Yarra Ranges,Charges laid,2381
+469,2021,Yarra Ranges,No charges laid,1593
+470,2021,Yarra Ranges,Unsolved,2137
+471,2021,Yarriambiack,Charges laid,138
+472,2021,Yarriambiack,No charges laid,87
+473,2021,Yarriambiack,Unsolved,108
+474,2020,Alpine,Charges laid,224
+475,2020,Alpine,No charges laid,90
+476,2020,Alpine,Unsolved,124
+477,2020,Ararat,Charges laid,476
+478,2020,Ararat,No charges laid,156
+479,2020,Ararat,Unsolved,262
+480,2020,Ballarat,Charges laid,3479
+481,2020,Ballarat,No charges laid,753
+482,2020,Ballarat,Unsolved,4479
+483,2020,Banyule,Charges laid,3271
+484,2020,Banyule,No charges laid,825
+485,2020,Banyule,Unsolved,3166
+486,2020,Bass Coast,Charges laid,805
+487,2020,Bass Coast,No charges laid,332
+488,2020,Bass Coast,Unsolved,649
+489,2020,Baw Baw,Charges laid,1664
+490,2020,Baw Baw,No charges laid,447
+491,2020,Baw Baw,Unsolved,1476
+492,2020,Bayside,Charges laid,1025
+493,2020,Bayside,No charges laid,477
+494,2020,Bayside,Unsolved,2693
+495,2020,Benalla,Charges laid,467
+496,2020,Benalla,No charges laid,178
+497,2020,Benalla,Unsolved,290
+498,2020,Boroondara,Charges laid,1592
+499,2020,Boroondara,No charges laid,562
+500,2020,Boroondara,Unsolved,4367
+501,2020,Brimbank,Charges laid,6321
+502,2020,Brimbank,No charges laid,1651
+503,2020,Brimbank,Unsolved,7508
+504,2020,Buloke,Charges laid,82
+505,2020,Buloke,No charges laid,48
+506,2020,Buloke,Unsolved,124
+507,2020,Campaspe,Charges laid,1350
+508,2020,Campaspe,No charges laid,378
+509,2020,Campaspe,Unsolved,1070
+510,2020,Cardinia,Charges laid,2137
+511,2020,Cardinia,No charges laid,850
+512,2020,Cardinia,Unsolved,2462
+513,2020,Casey,Charges laid,5731
+514,2020,Casey,No charges laid,3145
+515,2020,Casey,Unsolved,8269
+516,2020,Central Goldfields,Charges laid,441
+517,2020,Central Goldfields,No charges laid,165
+518,2020,Central Goldfields,Unsolved,260
+519,2020,Colac-Otway,Charges laid,561
+520,2020,Colac-Otway,No charges laid,232
+521,2020,Colac-Otway,Unsolved,487
+522,2020,Corangamite,Charges laid,274
+523,2020,Corangamite,No charges laid,79
+524,2020,Corangamite,Unsolved,195
+525,2020,Darebin,Charges laid,3896
+526,2020,Darebin,No charges laid,1045
+527,2020,Darebin,Unsolved,6954
+528,2020,East Gippsland,Charges laid,1705
+529,2020,East Gippsland,No charges laid,769
+530,2020,East Gippsland,Unsolved,1164
+531,2020,Frankston,Charges laid,5250
+532,2020,Frankston,No charges laid,1521
+533,2020,Frankston,Unsolved,4325
+534,2020,Gannawarra,Charges laid,319
+535,2020,Gannawarra,No charges laid,140
+536,2020,Gannawarra,Unsolved,149
+537,2020,Glen Eira,Charges laid,1594
+538,2020,Glen Eira,No charges laid,753
+539,2020,Glen Eira,Unsolved,3758
+540,2020,Glenelg,Charges laid,657
+541,2020,Glenelg,No charges laid,201
+542,2020,Glenelg,Unsolved,307
+543,2020,Golden Plains,Charges laid,141
+544,2020,Golden Plains,No charges laid,65
+545,2020,Golden Plains,Unsolved,266
+546,2020,Greater Bendigo,Charges laid,3982
+547,2020,Greater Bendigo,No charges laid,1105
+548,2020,Greater Bendigo,Unsolved,3236
+549,2020,Greater Dandenong,Charges laid,5762
+550,2020,Greater Dandenong,No charges laid,2240
+551,2020,Greater Dandenong,Unsolved,6723
+552,2020,Greater Geelong,Charges laid,7093
+553,2020,Greater Geelong,No charges laid,1881
+554,2020,Greater Geelong,Unsolved,8026
+555,2020,Greater Shepparton,Charges laid,3027
+556,2020,Greater Shepparton,No charges laid,876
+557,2020,Greater Shepparton,Unsolved,2479
+558,2020,Hepburn,Charges laid,263
+559,2020,Hepburn,No charges laid,105
+560,2020,Hepburn,Unsolved,370
+561,2020,Hindmarsh,Charges laid,116
+562,2020,Hindmarsh,No charges laid,47
+563,2020,Hindmarsh,Unsolved,83
+564,2020,Hobsons Bay,Charges laid,1842
+565,2020,Hobsons Bay,No charges laid,665
+566,2020,Hobsons Bay,Unsolved,2399
+567,2020,Horsham,Charges laid,855
+568,2020,Horsham,No charges laid,230
+569,2020,Horsham,Unsolved,271
+570,2020,Hume,Charges laid,6411
+571,2020,Hume,No charges laid,2393
+572,2020,Hume,Unsolved,7090
+573,2020,Indigo,Charges laid,162
+574,2020,Indigo,No charges laid,46
+575,2020,Indigo,Unsolved,222
+576,2020,Kingston,Charges laid,3407
+577,2020,Kingston,No charges laid,1218
+578,2020,Kingston,Unsolved,4409
+579,2020,Knox,Charges laid,3265
+580,2020,Knox,No charges laid,1183
+581,2020,Knox,Unsolved,4425
+582,2020,Latrobe,Charges laid,4989
+583,2020,Latrobe,No charges laid,1506
+584,2020,Latrobe,Unsolved,3580
+585,2020,Loddon,Charges laid,174
+586,2020,Loddon,No charges laid,40
+587,2020,Loddon,Unsolved,152
+588,2020,Macedon Ranges,Charges laid,774
+589,2020,Macedon Ranges,No charges laid,225
+590,2020,Macedon Ranges,Unsolved,725
+591,2020,Manningham,Charges laid,1117
+592,2020,Manningham,No charges laid,474
+593,2020,Manningham,Unsolved,2150
+594,2020,Mansfield,Charges laid,158
+595,2020,Mansfield,No charges laid,58
+596,2020,Mansfield,Unsolved,121
+597,2020,Maribyrnong,Charges laid,2505
+598,2020,Maribyrnong,No charges laid,656
+599,2020,Maribyrnong,Unsolved,4144
+600,2020,Maroondah,Charges laid,2618
+601,2020,Maroondah,No charges laid,880
+602,2020,Maroondah,Unsolved,2422
+603,2020,Melbourne,Charges laid,9933
+604,2020,Melbourne,No charges laid,4391
+605,2020,Melbourne,Unsolved,12577
+606,2020,Melton,Charges laid,3605
+607,2020,Melton,No charges laid,966
+608,2020,Melton,Unsolved,4749
+609,2020,Mildura,Charges laid,2859
+610,2020,Mildura,No charges laid,926
+611,2020,Mildura,Unsolved,1760
+612,2020,Mitchell,Charges laid,1451
+613,2020,Mitchell,No charges laid,567
+614,2020,Mitchell,Unsolved,1102
+615,2020,Moira,Charges laid,946
+616,2020,Moira,No charges laid,217
+617,2020,Moira,Unsolved,672
+618,2020,Monash,Charges laid,2823
+619,2020,Monash,No charges laid,1098
+620,2020,Monash,Unsolved,5656
+621,2020,Moonee Valley,Charges laid,2158
+622,2020,Moonee Valley,No charges laid,947
+623,2020,Moonee Valley,Unsolved,3614
+624,2020,Moorabool,Charges laid,640
+625,2020,Moorabool,No charges laid,173
+626,2020,Moorabool,Unsolved,828
+627,2020,Moreland,Charges laid,3433
+628,2020,Moreland,No charges laid,1295
+629,2020,Moreland,Unsolved,6372
+630,2020,Mornington Peninsula,Charges laid,3282
+631,2020,Mornington Peninsula,No charges laid,1380
+632,2020,Mornington Peninsula,Unsolved,3958
+633,2020,Mount Alexander,Charges laid,421
+634,2020,Mount Alexander,No charges laid,108
+635,2020,Mount Alexander,Unsolved,365
+636,2020,Moyne,Charges laid,240
+637,2020,Moyne,No charges laid,89
+638,2020,Moyne,Unsolved,177
+639,2020,Murrindindi,Charges laid,198
+640,2020,Murrindindi,No charges laid,143
+641,2020,Murrindindi,Unsolved,257
+642,2020,Nillumbik,Charges laid,611
+643,2020,Nillumbik,No charges laid,279
+644,2020,Nillumbik,Unsolved,801
+645,2020,Northern Grampians,Charges laid,383
+646,2020,Northern Grampians,No charges laid,135
+647,2020,Northern Grampians,Unsolved,217
+648,2020,Port Phillip,Charges laid,3233
+649,2020,Port Phillip,No charges laid,1121
+650,2020,Port Phillip,Unsolved,5603
+651,2020,Pyrenees,Charges laid,149
+652,2020,Pyrenees,No charges laid,32
+653,2020,Pyrenees,Unsolved,169
+654,2020,Queenscliffe,Charges laid,19
+655,2020,Queenscliffe,No charges laid,9
+656,2020,Queenscliffe,Unsolved,73
+657,2020,South Gippsland,Charges laid,675
+658,2020,South Gippsland,No charges laid,180
+659,2020,South Gippsland,Unsolved,504
+660,2020,Southern Grampians,Charges laid,456
+661,2020,Southern Grampians,No charges laid,144
+662,2020,Southern Grampians,Unsolved,287
+663,2020,Stonnington,Charges laid,2813
+664,2020,Stonnington,No charges laid,1110
+665,2020,Stonnington,Unsolved,5539
+666,2020,Strathbogie,Charges laid,171
+667,2020,Strathbogie,No charges laid,86
+668,2020,Strathbogie,Unsolved,218
+669,2020,Surf Coast,Charges laid,372
+670,2020,Surf Coast,No charges laid,155
+671,2020,Surf Coast,Unsolved,516
+672,2020,Swan Hill,Charges laid,975
+673,2020,Swan Hill,No charges laid,332
+674,2020,Swan Hill,Unsolved,463
+675,2020,Towong,Charges laid,58
+676,2020,Towong,No charges laid,24
+677,2020,Towong,Unsolved,73
+678,2020,Wangaratta,Charges laid,865
+679,2020,Wangaratta,No charges laid,364
+680,2020,Wangaratta,Unsolved,519
+681,2020,Warrnambool,Charges laid,1293
+682,2020,Warrnambool,No charges laid,421
+683,2020,Warrnambool,Unsolved,753
+684,2020,Wellington,Charges laid,1586
+685,2020,Wellington,No charges laid,766
+686,2020,Wellington,Unsolved,1033
+687,2020,West Wimmera,Charges laid,74
+688,2020,West Wimmera,No charges laid,21
+689,2020,West Wimmera,Unsolved,48
+690,2020,Whitehorse,Charges laid,2300
+691,2020,Whitehorse,No charges laid,739
+692,2020,Whitehorse,Unsolved,4315
+693,2020,Whittlesea,Charges laid,4402
+694,2020,Whittlesea,No charges laid,1935
+695,2020,Whittlesea,Unsolved,5911
+696,2020,Wodonga,Charges laid,1373
+697,2020,Wodonga,No charges laid,316
+698,2020,Wodonga,Unsolved,1139
+699,2020,Wyndham,Charges laid,5479
+700,2020,Wyndham,No charges laid,1607
+701,2020,Wyndham,Unsolved,6785
+702,2020,Yarra,Charges laid,3437
+703,2020,Yarra,No charges laid,1198
+704,2020,Yarra,Unsolved,6793
+705,2020,Yarra Ranges,Charges laid,2423
+706,2020,Yarra Ranges,No charges laid,969
+707,2020,Yarra Ranges,Unsolved,2795
+708,2020,Yarriambiack,Charges laid,167
+709,2020,Yarriambiack,No charges laid,48
+710,2020,Yarriambiack,Unsolved,103
+711,2019,Alpine,Charges laid,228
+712,2019,Alpine,No charges laid,55
+713,2019,Alpine,Unsolved,116
+714,2019,Ararat,Charges laid,520
+715,2019,Ararat,No charges laid,188
+716,2019,Ararat,Unsolved,204
+717,2019,Ballarat,Charges laid,3486
+718,2019,Ballarat,No charges laid,745
+719,2019,Ballarat,Unsolved,3898
+720,2019,Banyule,Charges laid,3331
+721,2019,Banyule,No charges laid,659
+722,2019,Banyule,Unsolved,3016
+723,2019,Bass Coast,Charges laid,792
+724,2019,Bass Coast,No charges laid,318
+725,2019,Bass Coast,Unsolved,672
+726,2019,Baw Baw,Charges laid,1558
+727,2019,Baw Baw,No charges laid,452
+728,2019,Baw Baw,Unsolved,1169
+729,2019,Bayside,Charges laid,952
+730,2019,Bayside,No charges laid,544
+731,2019,Bayside,Unsolved,2110
+732,2019,Benalla,Charges laid,443
+733,2019,Benalla,No charges laid,171
+734,2019,Benalla,Unsolved,263
+735,2019,Boroondara,Charges laid,1514
+736,2019,Boroondara,No charges laid,532
+737,2019,Boroondara,Unsolved,3524
+738,2019,Brimbank,Charges laid,6488
+739,2019,Brimbank,No charges laid,1444
+740,2019,Brimbank,Unsolved,6729
+741,2019,Buloke,Charges laid,62
+742,2019,Buloke,No charges laid,55
+743,2019,Buloke,Unsolved,97
+744,2019,Campaspe,Charges laid,1265
+745,2019,Campaspe,No charges laid,347
+746,2019,Campaspe,Unsolved,1307
+747,2019,Cardinia,Charges laid,1818
+748,2019,Cardinia,No charges laid,789
+749,2019,Cardinia,Unsolved,2090
+750,2019,Casey,Charges laid,5871
+751,2019,Casey,No charges laid,2874
+752,2019,Casey,Unsolved,7472
+753,2019,Central Goldfields,Charges laid,482
+754,2019,Central Goldfields,No charges laid,196
+755,2019,Central Goldfields,Unsolved,239
+756,2019,Colac-Otway,Charges laid,607
+757,2019,Colac-Otway,No charges laid,233
+758,2019,Colac-Otway,Unsolved,480
+759,2019,Corangamite,Charges laid,251
+760,2019,Corangamite,No charges laid,62
+761,2019,Corangamite,Unsolved,174
+762,2019,Darebin,Charges laid,3999
+763,2019,Darebin,No charges laid,1074
+764,2019,Darebin,Unsolved,6172
+765,2019,East Gippsland,Charges laid,1655
+766,2019,East Gippsland,No charges laid,741
+767,2019,East Gippsland,Unsolved,797
+768,2019,Frankston,Charges laid,5477
+769,2019,Frankston,No charges laid,1514
+770,2019,Frankston,Unsolved,4165
+771,2019,Gannawarra,Charges laid,315
+772,2019,Gannawarra,No charges laid,107
+773,2019,Gannawarra,Unsolved,159
+774,2019,Glen Eira,Charges laid,1314
+775,2019,Glen Eira,No charges laid,734
+776,2019,Glen Eira,Unsolved,2844
+777,2019,Glenelg,Charges laid,479
+778,2019,Glenelg,No charges laid,205
+779,2019,Glenelg,Unsolved,272
+780,2019,Golden Plains,Charges laid,142
+781,2019,Golden Plains,No charges laid,77
+782,2019,Golden Plains,Unsolved,291
+783,2019,Greater Bendigo,Charges laid,4138
+784,2019,Greater Bendigo,No charges laid,1176
+785,2019,Greater Bendigo,Unsolved,2778
+786,2019,Greater Dandenong,Charges laid,5726
+787,2019,Greater Dandenong,No charges laid,2185
+788,2019,Greater Dandenong,Unsolved,6284
+789,2019,Greater Geelong,Charges laid,6725
+790,2019,Greater Geelong,No charges laid,1884
+791,2019,Greater Geelong,Unsolved,7168
+792,2019,Greater Shepparton,Charges laid,3067
+793,2019,Greater Shepparton,No charges laid,922
+794,2019,Greater Shepparton,Unsolved,2239
+795,2019,Hepburn,Charges laid,183
+796,2019,Hepburn,No charges laid,96
+797,2019,Hepburn,Unsolved,340
+798,2019,Hindmarsh,Charges laid,122
+799,2019,Hindmarsh,No charges laid,58
+800,2019,Hindmarsh,Unsolved,69
+801,2019,Hobsons Bay,Charges laid,2114
+802,2019,Hobsons Bay,No charges laid,689
+803,2019,Hobsons Bay,Unsolved,2045
+804,2019,Horsham,Charges laid,798
+805,2019,Horsham,No charges laid,319
+806,2019,Horsham,Unsolved,319
+807,2019,Hume,Charges laid,6507
+808,2019,Hume,No charges laid,2242
+809,2019,Hume,Unsolved,6842
+810,2019,Indigo,Charges laid,155
+811,2019,Indigo,No charges laid,59
+812,2019,Indigo,Unsolved,157
+813,2019,Kingston,Charges laid,3230
+814,2019,Kingston,No charges laid,1337
+815,2019,Kingston,Unsolved,4041
+816,2019,Knox,Charges laid,3379
+817,2019,Knox,No charges laid,1159
+818,2019,Knox,Unsolved,3552
+819,2019,Latrobe,Charges laid,5503
+820,2019,Latrobe,No charges laid,1532
+821,2019,Latrobe,Unsolved,2907
+822,2019,Loddon,Charges laid,164
+823,2019,Loddon,No charges laid,53
+824,2019,Loddon,Unsolved,169
+825,2019,Macedon Ranges,Charges laid,756
+826,2019,Macedon Ranges,No charges laid,229
+827,2019,Macedon Ranges,Unsolved,797
+828,2019,Manningham,Charges laid,1113
+829,2019,Manningham,No charges laid,407
+830,2019,Manningham,Unsolved,1890
+831,2019,Mansfield,Charges laid,132
+832,2019,Mansfield,No charges laid,58
+833,2019,Mansfield,Unsolved,131
+834,2019,Maribyrnong,Charges laid,2403
+835,2019,Maribyrnong,No charges laid,705
+836,2019,Maribyrnong,Unsolved,3561
+837,2019,Maroondah,Charges laid,2886
+838,2019,Maroondah,No charges laid,886
+839,2019,Maroondah,Unsolved,2262
+840,2019,Melbourne,Charges laid,10465
+841,2019,Melbourne,No charges laid,5112
+842,2019,Melbourne,Unsolved,11010
+843,2019,Melton,Charges laid,3212
+844,2019,Melton,No charges laid,983
+845,2019,Melton,Unsolved,4135
+846,2019,Mildura,Charges laid,2873
+847,2019,Mildura,No charges laid,928
+848,2019,Mildura,Unsolved,1692
+849,2019,Mitchell,Charges laid,1499
+850,2019,Mitchell,No charges laid,574
+851,2019,Mitchell,Unsolved,961
+852,2019,Moira,Charges laid,826
+853,2019,Moira,No charges laid,217
+854,2019,Moira,Unsolved,639
+855,2019,Monash,Charges laid,2591
+856,2019,Monash,No charges laid,1030
+857,2019,Monash,Unsolved,4409
+858,2019,Moonee Valley,Charges laid,2105
+859,2019,Moonee Valley,No charges laid,961
+860,2019,Moonee Valley,Unsolved,3419
+861,2019,Moorabool,Charges laid,708
+862,2019,Moorabool,No charges laid,171
+863,2019,Moorabool,Unsolved,754
+864,2019,Moreland,Charges laid,3563
+865,2019,Moreland,No charges laid,1410
+866,2019,Moreland,Unsolved,6434
+867,2019,Mornington Peninsula,Charges laid,3417
+868,2019,Mornington Peninsula,No charges laid,1383
+869,2019,Mornington Peninsula,Unsolved,3361
+870,2019,Mount Alexander,Charges laid,357
+871,2019,Mount Alexander,No charges laid,130
+872,2019,Mount Alexander,Unsolved,264
+873,2019,Moyne,Charges laid,215
+874,2019,Moyne,No charges laid,91
+875,2019,Moyne,Unsolved,152
+876,2019,Murrindindi,Charges laid,242
+877,2019,Murrindindi,No charges laid,149
+878,2019,Murrindindi,Unsolved,202
+879,2019,Nillumbik,Charges laid,540
+880,2019,Nillumbik,No charges laid,289
+881,2019,Nillumbik,Unsolved,794
+882,2019,Northern Grampians,Charges laid,359
+883,2019,Northern Grampians,No charges laid,180
+884,2019,Northern Grampians,Unsolved,223
+885,2019,Port Phillip,Charges laid,3102
+886,2019,Port Phillip,No charges laid,1337
+887,2019,Port Phillip,Unsolved,5211
+888,2019,Pyrenees,Charges laid,154
+889,2019,Pyrenees,No charges laid,100
+890,2019,Pyrenees,Unsolved,165
+891,2019,Queenscliffe,Charges laid,32
+892,2019,Queenscliffe,No charges laid,17
+893,2019,Queenscliffe,Unsolved,69
+894,2019,South Gippsland,Charges laid,513
+895,2019,South Gippsland,No charges laid,158
+896,2019,South Gippsland,Unsolved,324
+897,2019,Southern Grampians,Charges laid,649
+898,2019,Southern Grampians,No charges laid,241
+899,2019,Southern Grampians,Unsolved,218
+900,2019,Stonnington,Charges laid,2776
+901,2019,Stonnington,No charges laid,1169
+902,2019,Stonnington,Unsolved,4225
+903,2019,Strathbogie,Charges laid,186
+904,2019,Strathbogie,No charges laid,80
+905,2019,Strathbogie,Unsolved,182
+906,2019,Surf Coast,Charges laid,330
+907,2019,Surf Coast,No charges laid,141
+908,2019,Surf Coast,Unsolved,428
+909,2019,Swan Hill,Charges laid,1091
+910,2019,Swan Hill,No charges laid,316
+911,2019,Swan Hill,Unsolved,461
+912,2019,Towong,Charges laid,68
+913,2019,Towong,No charges laid,21
+914,2019,Towong,Unsolved,84
+915,2019,Wangaratta,Charges laid,848
+916,2019,Wangaratta,No charges laid,346
+917,2019,Wangaratta,Unsolved,445
+918,2019,Warrnambool,Charges laid,1767
+919,2019,Warrnambool,No charges laid,536
+920,2019,Warrnambool,Unsolved,704
+921,2019,Wellington,Charges laid,1454
+922,2019,Wellington,No charges laid,619
+923,2019,Wellington,Unsolved,848
+924,2019,West Wimmera,Charges laid,48
+925,2019,West Wimmera,No charges laid,27
+926,2019,West Wimmera,Unsolved,50
+927,2019,Whitehorse,Charges laid,2274
+928,2019,Whitehorse,No charges laid,657
+929,2019,Whitehorse,Unsolved,3430
+930,2019,Whittlesea,Charges laid,4580
+931,2019,Whittlesea,No charges laid,1793
+932,2019,Whittlesea,Unsolved,5539
+933,2019,Wodonga,Charges laid,1261
+934,2019,Wodonga,No charges laid,277
+935,2019,Wodonga,Unsolved,882
+936,2019,Wyndham,Charges laid,4802
+937,2019,Wyndham,No charges laid,1489
+938,2019,Wyndham,Unsolved,5172
+939,2019,Yarra,Charges laid,3211
+940,2019,Yarra,No charges laid,1168
+941,2019,Yarra,Unsolved,6803
+942,2019,Yarra Ranges,Charges laid,2515
+943,2019,Yarra Ranges,No charges laid,889
+944,2019,Yarra Ranges,Unsolved,2363
+945,2019,Yarriambiack,Charges laid,158
+946,2019,Yarriambiack,No charges laid,60
+947,2019,Yarriambiack,Unsolved,102
