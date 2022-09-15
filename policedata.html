@@ -31,13 +31,19 @@
         <div class="col-md-2">
           <aside class="filters">
             <div class="panel panel-default">
-              <div class="panel-heading">Filter Search (#Need to provide both values for chart)</div>
+              <div class="panel-heading">Filter Search (Both fields are mandatory to display chart)</div>
               <div class="panel-body">
                 <form>
                   <div class="form-group">
                       <center>
                         <label for="year">Year</label>
-                        <input class="form-control" id="Year" type="text" placeholder="e.g. 2019">
+<!--                        <input class="form-control" id="Year" type="text" placeholder="e.g. 2019"> -->
+                            <select name="Year" id="Year">
+                              <option value="2019">2019</option>
+                              <option value="2020">2020</option>
+                              <option value="2021">2021</option>
+                              <option value="2022">2022</option>
+                            </select>
                       </center><br>
                       <center>                        
                        <label for="lga">Local Government Area (dropdown)</label>

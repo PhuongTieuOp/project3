@@ -1,0 +1,80 @@
+year,lga_name,a_crime_vs_person,b_property_deception,c_drug_offence,d_public_order_security,e_justice_offence,f_other_offence,region_name,offence_total
+2022,Alpine,86,149,16,33,61,25,2 Eastern,370
+2022,Ararat,226,343,74,80,224,13,4 Western,960
+2022,Ballarat,1166,4626,157,280,1238,127,4 Western,7594
+2022,Banyule,899,2698,216,204,1181,46,1 North West Metro,5244
+2022,Bass Coast,595,960,64,92,372,64,2 Eastern,2147
+2022,Baw Baw,788,1218,166,209,596,60,2 Eastern,3037
+2022,Bayside,484,2304,66,94,344,53,3 Southern Metro,3345
+2022,Benalla,243,378,42,81,219,16,2 Eastern,979
+2022,Boroondara,707,3995,108,137,441,60,2 Eastern,5448
+2022,Brimbank,2094,7274,479,540,1718,225,1 North West Metro,12330
+2022,Buloke,45,87,42,7,26,18,4 Western,225
+2022,Campaspe,458,1024,86,94,581,176,4 Western,2419
+2022,Cardinia,1032,2450,143,216,621,156,3 Southern Metro,4618
+2022,Casey,3146,7641,642,501,2013,211,3 Southern Metro,14154
+2022,Central Goldfields,253,297,42,48,147,36,4 Western,823
+2022,Colac-Otway,257,452,57,78,220,150,4 Western,1214
+2022,Corangamite,122,296,28,27,94,13,4 Western,580
+2022,Darebin,1347,5742,479,409,1119,179,1 North West Metro,9275
+2022,East Gippsland,842,1524,164,208,761,141,2 Eastern,3640
+2022,Frankston,1589,3836,478,582,1681,153,3 Southern Metro,8319
+2022,Gannawarra,118,249,24,44,87,43,4 Western,565
+2022,Glen Eira,712,3395,128,158,526,113,3 Southern Metro,5032
+2022,Glenelg,260,410,57,74,308,95,4 Western,1204
+2022,Golden Plains,80,256,11,13,56,3,4 Western,419
+2022,Greater Bendigo,1561,3589,209,444,1603,96,4 Western,7502
+2022,Greater Dandenong,2166,6152,504,596,1623,328,3 Southern Metro,11369
+2022,Greater Geelong,2869,8070,392,737,2254,247,4 Western,14569
+2022,Greater Shepparton,1089,2649,215,280,1514,38,2 Eastern,5785
+2022,Hepburn,83,264,4,23,56,6,4 Western,436
+2022,Hindmarsh,53,156,12,24,57,2,4 Western,304
+2022,Hobsons Bay,719,2869,116,197,522,177,1 North West Metro,4600
+2022,Horsham,408,586,68,102,411,33,4 Western,1608
+2022,Hume,2630,6266,513,544,1887,356,1 North West Metro,12196
+2022,Indigo,109,240,15,26,55,20,2 Eastern,465
+2022,Kingston,1188,4052,218,267,999,99,3 Southern Metro,6823
+2022,Knox,1171,3481,553,307,950,169,2 Eastern,6631
+2022,Latrobe,1809,3137,417,576,1811,76,2 Eastern,7826
+2022,Loddon,97,176,17,22,70,5,4 Western,387
+2022,Macedon Ranges,282,604,81,67,237,120,4 Western,1391
+2022,Manningham,521,1759,137,103,283,64,2 Eastern,2867
+2022,Mansfield,73,96,24,47,55,44,2 Eastern,339
+2022,Maribyrnong,880,5008,194,251,521,171,1 North West Metro,7025
+2022,Maroondah,1027,2387,247,245,1143,44,2 Eastern,5093
+2022,Melbourne,3749,12936,1289,1815,2547,2700,1 North West Metro,25036
+2022,Melton,1987,5010,269,286,1093,160,1 North West Metro,8805
+2022,Mildura,985,2280,207,340,897,186,4 Western,4895
+2022,Mitchell,687,910,82,112,486,74,2 Eastern,2351
+2022,Moira,276,733,73,105,325,60,2 Eastern,1572
+2022,Monash,1275,5442,306,254,890,142,2 Eastern,8309
+2022,Moonee Valley,951,3788,201,246,655,178,1 North West Metro,6019
+2022,Moorabool,284,769,65,69,245,142,4 Western,1574
+2022,Moreland,1459,6133,210,242,1007,122,1 North West Metro,9173
+2022,Mornington Peninsula,1181,3097,345,431,1063,302,3 Southern Metro,6419
+2022,Mount Alexander,144,379,26,24,113,31,4 Western,717
+2022,Moyne,145,272,20,28,73,9,4 Western,547
+2022,Murrindindi,178,193,23,19,92,26,2 Eastern,531
+2022,Nillumbik,283,714,49,55,192,26,1 North West Metro,1319
+2022,Northern Grampians,196,245,93,66,176,31,4 Western,807
+2022,Port Phillip,1394,5908,318,420,843,274,3 Southern Metro,9157
+2022,Pyrenees,46,176,6,7,54,14,4 Western,303
+2022,Queenscliffe,16,82,,8,1,11,4 Western,118
+2022,South Gippsland,348,500,26,28,277,16,2 Eastern,1195
+2022,Southern Grampians,213,288,49,44,182,23,4 Western,799
+2022,Stonnington,1081,5359,255,410,563,152,3 Southern Metro,7820
+2022,Strathbogie,109,183,14,14,117,10,2 Eastern,447
+2022,Surf Coast,235,599,25,43,113,34,4 Western,1049
+2022,Swan Hill,378,595,77,144,407,96,4 Western,1697
+2022,Towong,27,87,1,14,13,7,2 Eastern,149
+2022,Wangaratta,392,645,99,129,357,33,2 Eastern,1655
+2022,Warrnambool,518,845,101,141,494,109,4 Western,2208
+2022,Wellington,753,1275,90,144,627,74,2 Eastern,2963
+2022,West Wimmera,40,57,3,7,20,24,4 Western,151
+2022,Whitehorse,972,3566,154,162,551,54,2 Eastern,5459
+2022,Whittlesea,1934,4704,449,355,1365,131,1 North West Metro,8938
+2022,Wodonga,486,1325,113,124,439,195,2 Eastern,2682
+2022,Wyndham,2663,6922,333,475,1463,238,1 North West Metro,12094
+2022,Yarra,1382,5578,355,381,811,283,1 North West Metro,8790
+2022,Yarra Ranges,1120,2480,218,213,764,191,2 Eastern,4986
+2022,Yarriambiack,83,113,9,21,60,18,4 Western,304

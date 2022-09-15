@@ -56,10 +56,15 @@ function filterListener(){
     console.log("Filters selected", filters);
     let filteredData = data;
 
-        if (ulga) {
+        if (ulga || uyear ) {
             d3.csv(data)
             .then( res => {
-                var filteredTable = Object.values(res).filter((row) => row.lga_name === ulga);
+                 var filteredTable = Object.values(res).filter((row) => row.lga_name === ulga && 
+                 row.year === uyear
+                 );
+//                Object.entries(filters).forEach(([key,value])=> {
+//                var filteredTable =  Object.values(res).filter(row => row[key]=== value);
+
                 console.log("Filtered table values: ", filteredTable)
                 console.log("Filtered data for debugging: ", filteredData);
 
@@ -86,10 +91,13 @@ d3.selectAll("#filter-btn").on('click', filterListener);
 
 function ploty(kutyu) {
     let ulga = d3.select("#lga").property("value");
+    let uyear = d3.select("#Year").property("value");
 
     d3.csv(kutyu)
         .then( res => {
-            let filteredTable = Object.values(res).filter((row) => row.lga_name === ulga);
+            let filteredTable = Object.values(res).filter((row) => row.lga_name === ulga && 
+            row.year === uyear   
+            );
             console.log("Filtered table values for chart: ", filteredTable)
             console.log(filteredTable[0]);
             var x1 = filteredTable[0].a_crime_vs_person;
