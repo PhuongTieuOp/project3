@@ -1,0 +1,325 @@
+year,region_name,lga_name,incident_count,rate_per_100000pop
+2022,1 North West Metro,Banyule,5244,4086.865525466
+2022,1 North West Metro,Brimbank,12330,6200.959480232
+2022,1 North West Metro,Darebin,9276,5751.475727256
+2022,1 North West Metro,Hobsons Bay,4599,4804.89612819
+2022,1 North West Metro,Hume,12196,4919.684614534
+2022,1 North West Metro,Maribyrnong,7025,7486.953068068
+2022,1 North West Metro,Melbourne,25036,14582.311374876
+2022,1 North West Metro,Melton,8805,4668.504451099
+2022,1 North West Metro,Moonee Valley,6018,4685.637553682
+2022,1 North West Metro,Moreland,9173,4992.233638729
+2022,1 North West Metro,Nillumbik,1319,2063.770802694
+2022,1 North West Metro,Whittlesea,8939,3720.498248721
+2022,1 North West Metro,Wyndham,12094,4048.936235895
+2022,1 North West Metro,Yarra,8790,8734.362735294
+2022,2 Eastern,Alpine,371,2827.30161542
+2022,2 Eastern,Bass Coast,2147,5360.565038689
+2022,2 Eastern,Baw Baw,3036,5205.671945141
+2022,2 Eastern,Benalla,978,6900.8966767
+2022,2 Eastern,Boroondara,5448,3117.506027675
+2022,2 Eastern,East Gippsland,3640,7434.664595923
+2022,2 Eastern,Greater Shepparton,5785,8622.304460955
+2022,2 Eastern,Indigo,465,2718.087515359
+2022,2 Eastern,Knox,6631,4132.500067609
+2022,2 Eastern,Latrobe,7826,10243.784764294
+2022,2 Eastern,Manningham,2867,2288.265093745
+2022,2 Eastern,Mansfield,339,3430.63658528
+2022,2 Eastern,Maroondah,5094,4367.476560633
+2022,2 Eastern,Mitchell,2350,4589.877335431
+2022,2 Eastern,Moira,1573,5218.356630046
+2022,2 Eastern,Monash,8309,4227.536271064
+2022,2 Eastern,Murrindindi,531,3545.543600664
+2022,2 Eastern,South Gippsland,1194,3896.177051074
+2022,2 Eastern,Strathbogie,446,3943.839096258
+2022,2 Eastern,Towong,148,2424.042939333
+2022,2 Eastern,Wangaratta,1655,5593.184073972
+2022,2 Eastern,Wellington,2964,6528.415062054
+2022,2 Eastern,Whitehorse,5459,3120.210745078
+2022,2 Eastern,Wodonga,2682,6124.529573123
+2022,2 Eastern,Yarra Ranges,4986,3164.298740035
+2022,3 Southern Metro,Bayside,3346,3217.395462919
+2022,3 Southern Metro,Cardinia,4618,3835.877021702
+2022,3 Southern Metro,Casey,14154,3790.374659932
+2022,3 Southern Metro,Frankston,8319,5958.041941685
+2022,3 Southern Metro,Glen Eira,5032,3284.949982131
+2022,3 Southern Metro,Greater Dandenong,11369,7044.528517872
+2022,3 Southern Metro,Kingston,6823,4194.111582722
+2022,3 Southern Metro,Mornington Peninsula,6420,3806.322915619
+2022,3 Southern Metro,Port Phillip,9157,8215.660527162
+2022,3 Southern Metro,Stonnington,7820,6914.164943547
+2022,4 Western,Ararat,960,8008.42003121
+2022,4 Western,Ballarat,7594,6573.501073865
+2022,4 Western,Buloke,224,3692.993356252
+2022,4 Western,Campaspe,2419,6388.455074096
+2022,4 Western,Central Goldfields,823,6223.254223026
+2022,4 Western,Colac-Otway,1214,5669.299512991
+2022,4 Western,Corangamite,580,3701.057294251
+2022,4 Western,Gannawarra,565,5394.611116803
+2022,4 Western,Glenelg,1203,6160.286874483
+2022,4 Western,Golden Plains,420,1664.088513719
+2022,4 Western,Greater Bendigo,7501,6091.569462131
+2022,4 Western,Greater Geelong,14569,5291.348003254
+2022,4 Western,Hepburn,436,2662.84381795
+2022,4 Western,Hindmarsh,304,5482.881243084
+2022,4 Western,Horsham,1608,8030.751095373
+2022,4 Western,Loddon,387,5139.654249974
+2022,4 Western,Macedon Ranges,1391,2654.612253837
+2022,4 Western,Mildura,4895,8897.562805423
+2022,4 Western,Moorabool,1573,4207.418457443
+2022,4 Western,Mount Alexander,716,3514.073447963
+2022,4 Western,Moyne,546,3143.793685225
+2022,4 Western,Northern Grampians,806,7083.105348942
+2022,4 Western,Pyrenees,302,3944.853713697
+2022,4 Western,Queenscliffe,118,3841.296016113
+2022,4 Western,Southern Grampians,799,5010.409133969
+2022,4 Western,Surf Coast,1049,2803.262665471
+2022,4 Western,Swan Hill,1696,8467.603142976
+2022,4 Western,Warrnambool,2207,6157.010349841
+2022,4 Western,West Wimmera,151,4063.539395813
+2022,4 Western,Yarriambiack,304,4788.4927465
+2022,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities,900,
+2022,Unincorporated Vic,Unincorporated Vic,73,
+2021,1 North West Metro,Banyule,6286,4858.293337043
+2021,1 North West Metro,Brimbank,14514,7196.548988497
+2021,1 North West Metro,Darebin,11475,7061.495006185
+2021,1 North West Metro,Hobsons Bay,4461,4631.581133133
+2021,1 North West Metro,Hume,15479,6350.671622808
+2021,1 North West Metro,Maribyrnong,7048,7540.62931302
+2021,1 North West Metro,Melbourne,25957,15281.408218533
+2021,1 North West Metro,Melton,9883,5517.930622477
+2021,1 North West Metro,Moonee Valley,6108,4721.013456589
+2021,1 North West Metro,Moreland,10148,5494.106882793
+2021,1 North West Metro,Nillumbik,1522,2353.887316538
+2021,1 North West Metro,Whittlesea,11453,4813.560176857
+2021,1 North West Metro,Wyndham,12706,4387.870332319
+2021,1 North West Metro,Yarra,10827,10868.081347494
+2021,2 Eastern,Alpine,400,3060.677940164
+2021,2 Eastern,Bass Coast,2096,5398.583386993
+2021,2 Eastern,Baw Baw,3585,6335.825247866
+2021,2 Eastern,Benalla,995,7041.256811266
+2021,2 Eastern,Boroondara,5954,3370.850129082
+2021,2 Eastern,East Gippsland,3629,7501.653712585
+2021,2 Eastern,Greater Shepparton,5937,8889.587638128
+2021,2 Eastern,Indigo,427,2514.87131162
+2021,2 Eastern,Knox,8283,5088.806836683
+2021,2 Eastern,Latrobe,9087,11932.086769263
+2021,2 Eastern,Manningham,3371,2655.920078157
+2021,2 Eastern,Mansfield,388,3983.572895277
+2021,2 Eastern,Maroondah,5708,4858.533928024
+2021,2 Eastern,Mitchell,3163,6426.771781534
+2021,2 Eastern,Moira,1630,5433.152228259
+2021,2 Eastern,Monash,9572,4834.831801192
+2021,2 Eastern,Murrindindi,663,4453.550077249
+2021,2 Eastern,South Gippsland,1264,4150.385815137
+2021,2 Eastern,Strathbogie,453,4056.595325513
+2021,2 Eastern,Towong,153,2519.347933476
+2021,2 Eastern,Wangaratta,1658,5643.486844345
+2021,2 Eastern,Wellington,3218,7136.520890624
+2021,2 Eastern,Whitehorse,6947,3947.832016821
+2021,2 Eastern,Wodonga,2417,5596.721159635
+2021,2 Eastern,Yarra Ranges,6111,3847.48569234
+2021,3 Southern Metro,Bayside,3827,3624.739534003
+2021,3 Southern Metro,Cardinia,5563,4687.592163472
+2021,3 Southern Metro,Casey,16137,4374.818698643
+2021,3 Southern Metro,Frankston,10207,7180.594736435
+2021,3 Southern Metro,Glen Eira,6020,3880.791372008
+2021,3 Southern Metro,Greater Dandenong,14221,8710.325481117
+2021,3 Southern Metro,Kingston,8041,4882.803011902
+2021,3 Southern Metro,Mornington Peninsula,7617,4510.703816658
+2021,3 Southern Metro,Port Phillip,10175,9077.365021589
+2021,3 Southern Metro,Stonnington,8943,7821.409830331
+2021,4 Western,Ararat,1087,9117.597718504
+2021,4 Western,Ballarat,7188,6350.777060159
+2021,4 Western,Buloke,244,4019.107231099
+2021,4 Western,Campaspe,2456,6503.892802288
+2021,4 Western,Central Goldfields,820,6233.845218185
+2021,4 Western,Colac-Otway,1226,5693.851012447
+2021,4 Western,Corangamite,682,4312.907101752
+2021,4 Western,Gannawarra,639,6121.862425752
+2021,4 Western,Glenelg,1048,5358.147144537
+2021,4 Western,Golden Plains,450,1817.080557238
+2021,4 Western,Greater Bendigo,8000,6590.763045592
+2021,4 Western,Greater Geelong,15511,5755.302254479
+2021,4 Western,Hepburn,507,3114.059332965
+2021,4 Western,Hindmarsh,287,5158.159597412
+2021,4 Western,Horsham,1472,7374.38004108
+2021,4 Western,Loddon,412,5495.531545952
+2021,4 Western,Macedon Ranges,1853,3581.160736718
+2021,4 Western,Mildura,4405,7975.015841405
+2021,4 Western,Moorabool,1990,5411.579147744
+2021,4 Western,Mount Alexander,728,3604.674192909
+2021,4 Western,Moyne,509,2955.693629871
+2021,4 Western,Northern Grampians,894,7855.197258589
+2021,4 Western,Pyrenees,344,4513.251115193
+2021,4 Western,Queenscliffe,81,2652.259332024
+2021,4 Western,Southern Grampians,791,4929.270268586
+2021,4 Western,Surf Coast,1164,3208.556149733
+2021,4 Western,Swan Hill,1857,9211.766456669
+2021,4 Western,Warrnambool,2200,6178.560395428
+2021,4 Western,West Wimmera,122,3253.333333333
+2021,4 Western,Yarriambiack,333,5161.990389087
+2021,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities,1270,
+2021,Unincorporated Vic,Unincorporated Vic,30,
+2020,1 North West Metro,Banyule,7262,5505.894840593
+2020,1 North West Metro,Brimbank,15480,7437.05169904
+2020,1 North West Metro,Darebin,11895,7150.328211787
+2020,1 North West Metro,Hobsons Bay,4906,4998.675442708
+2020,1 North West Metro,Hume,15894,6593.981032036
+2020,1 North West Metro,Maribyrnong,7305,7695.305916063
+2020,1 North West Metro,Melbourne,26901,14649.726621212
+2020,1 North West Metro,Melton,9320,5406.09519832
+2020,1 North West Metro,Moonee Valley,6719,5101.668919227
+2020,1 North West Metro,Moreland,11100,5883.600127213
+2020,1 North West Metro,Nillumbik,1691,2593.558282209
+2020,1 North West Metro,Whittlesea,12248,5180.807999628
+2020,1 North West Metro,Wyndham,13871,4899.993641418
+2020,1 North West Metro,Yarra,11428,11086.964957895
+2020,2 Eastern,Alpine,438,3376.763549456
+2020,2 Eastern,Bass Coast,1786,4770.426560538
+2020,2 Eastern,Baw Baw,3587,6537.746509678
+2020,2 Eastern,Benalla,935,6614.785992218
+2020,2 Eastern,Boroondara,6521,3563.894323784
+2020,2 Eastern,East Gippsland,3638,7623.478133317
+2020,2 Eastern,Greater Shepparton,6382,9519.405745652
+2020,2 Eastern,Indigo,430,2547.091576827
+2020,2 Eastern,Knox,8873,5374.579022606
+2020,2 Eastern,Latrobe,10075,13274.919296396
+2020,2 Eastern,Manningham,3741,2902.429941346
+2020,2 Eastern,Mansfield,337,3557.85472973
+2020,2 Eastern,Maroondah,5920,4959.993297306
+2020,2 Eastern,Mitchell,3120,6550.905998698
+2020,2 Eastern,Moira,1835,6114.220978275
+2020,2 Eastern,Monash,9577,4675.24225634
+2020,2 Eastern,Murrindindi,598,4079.405143598
+2020,2 Eastern,South Gippsland,1359,4493.601825216
+2020,2 Eastern,Strathbogie,475,4322.111010009
+2020,2 Eastern,Towong,155,2540.567120144
+2020,2 Eastern,Wangaratta,1748,5988.147031619
+2020,2 Eastern,Wellington,3385,7562.38689931
+2020,2 Eastern,Whitehorse,7354,4070.539786565
+2020,2 Eastern,Wodonga,2828,6631.492554813
+2020,2 Eastern,Yarra Ranges,6187,3869.269110262
+2020,3 Southern Metro,Bayside,4195,3901.744856579
+2020,3 Southern Metro,Cardinia,5449,4692.114939164
+2020,3 Southern Metro,Casey,17145,4705.071982524
+2020,3 Southern Metro,Frankston,11096,7744.222890683
+2020,3 Southern Metro,Glen Eira,6105,3860.283656552
+2020,3 Southern Metro,Greater Dandenong,14725,8750.973155758
+2020,3 Southern Metro,Kingston,9034,5402.205372306
+2020,3 Southern Metro,Mornington Peninsula,8620,5105.6671721
+2020,3 Southern Metro,Port Phillip,9957,8552.874580173
+2020,3 Southern Metro,Stonnington,9462,7980.298059325
+2020,4 Western,Ararat,894,7473.666610935
+2020,4 Western,Ballarat,8711,7824.837188412
+2020,4 Western,Buloke,254,4163.251925914
+2020,4 Western,Campaspe,2798,7428.055644048
+2020,4 Western,Central Goldfields,866,6614.726550565
+2020,4 Western,Colac-Otway,1280,5910.329223808
+2020,4 Western,Corangamite,548,3440.698185471
+2020,4 Western,Gannawarra,608,5846.153846154
+2020,4 Western,Glenelg,1165,5938.423896422
+2020,4 Western,Golden Plains,472,1947.114392971
+2020,4 Western,Greater Bendigo,8323,6939.418699661
+2020,4 Western,Greater Geelong,17000,6420.351759743
+2020,4 Western,Hepburn,738,4567.962366923
+2020,4 Western,Hindmarsh,246,4399.141630901
+2020,4 Western,Horsham,1356,6775.934439336
+2020,4 Western,Loddon,366,4897.631473304
+2020,4 Western,Macedon Ranges,1724,3383.244696509
+2020,4 Western,Mildura,5545,9916.660705344
+2020,4 Western,Moorabool,1641,4558.080106661
+2020,4 Western,Mount Alexander,894,4470.223511176
+2020,4 Western,Moyne,506,2972.449039535
+2020,4 Western,Northern Grampians,735,6446.802912025
+2020,4 Western,Pyrenees,350,4632.69358041
+2020,4 Western,Queenscliffe,101,3357.712765957
+2020,4 Western,Southern Grampians,887,5498.729155043
+2020,4 Western,Surf Coast,1043,3000.489053825
+2020,4 Western,Swan Hill,1770,8624.049892808
+2020,4 Western,Warrnambool,2467,6944.991836045
+2020,4 Western,West Wimmera,143,3754.266211604
+2020,4 Western,Yarriambiack,318,4827.690906331
+2020,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities,1377,
+2020,Unincorporated Vic,Unincorporated Vic,109,
+2019,1 North West Metro,Banyule,7006,5322.090549985
+2019,1 North West Metro,Brimbank,14661,6995.819972515
+2019,1 North West Metro,Darebin,11245,6847.354832424
+2019,1 North West Metro,Hobsons Bay,4848,4958.829847082
+2019,1 North West Metro,Hume,15591,6675.801237449
+2019,1 North West Metro,Maribyrnong,6669,7133.993710019
+2019,1 North West Metro,Melbourne,26587,14853.570510743
+2019,1 North West Metro,Melton,8330,5050.443808508
+2019,1 North West Metro,Moonee Valley,6485,4976.479706553
+2019,1 North West Metro,Moreland,11407,6139.033749347
+2019,1 North West Metro,Nillumbik,1623,2493.125854468
+2019,1 North West Metro,Whittlesea,11912,5172.451226026
+2019,1 North West Metro,Wyndham,11463,4236.032327323
+2019,1 North West Metro,Yarra,11182,11015.012411837
+2019,2 Eastern,Alpine,399,3114.267873868
+2019,2 Eastern,Bass Coast,1782,4907.063197026
+2019,2 Eastern,Baw Baw,3179,5953.852492789
+2019,2 Eastern,Benalla,877,6249.109305971
+2019,2 Eastern,Boroondara,5570,3040.442802011
+2019,2 Eastern,East Gippsland,3193,6749.386995857
+2019,2 Eastern,Greater Shepparton,6228,9365.272702666
+2019,2 Eastern,Indigo,371,2221.689921552
+2019,2 Eastern,Knox,8090,4916.349139791
+2019,2 Eastern,Latrobe,9942,13158.974494726
+2019,2 Eastern,Manningham,3410,2672.727985265
+2019,2 Eastern,Mansfield,321,3498.63760218
+2019,2 Eastern,Maroondah,6034,5089.019895588
+2019,2 Eastern,Mitchell,3034,6583.201336603
+2019,2 Eastern,Moira,1682,5621.657754011
+2019,2 Eastern,Monash,8030,3957.692610993
+2019,2 Eastern,Murrindindi,593,4070.565623284
+2019,2 Eastern,South Gippsland,995,3326.646606486
+2019,2 Eastern,Strathbogie,448,4156.615327519
+2019,2 Eastern,Towong,173,2864.712700778
+2019,2 Eastern,Wangaratta,1639,5616.091008772
+2019,2 Eastern,Wellington,2921,6582.090224886
+2019,2 Eastern,Whitehorse,6361,3558.024152725
+2019,2 Eastern,Wodonga,2420,5750.540598341
+2019,2 Eastern,Yarra Ranges,5767,3616.263466145
+2019,3 Southern Metro,Bayside,3606,3374.635022834
+2019,3 Southern Metro,Cardinia,4697,4187.058183796
+2019,3 Southern Metro,Casey,16217,4581.565252767
+2019,3 Southern Metro,Frankston,11156,7820.813908654
+2019,3 Southern Metro,Glen Eira,4892,3125.179672278
+2019,3 Southern Metro,Greater Dandenong,14195,8436.298369795
+2019,3 Southern Metro,Kingston,8608,5191.672094762
+2019,3 Southern Metro,Mornington Peninsula,8161,4868.779792267
+2019,3 Southern Metro,Port Phillip,9650,8346.306867324
+2019,3 Southern Metro,Stonnington,8170,6936.897160712
+2019,4 Western,Ararat,912,7700.101317123
+2019,4 Western,Ballarat,8129,7423.473115137
+2019,4 Western,Buloke,214,3495.018781643
+2019,4 Western,Campaspe,2919,7760.202047056
+2019,4 Western,Central Goldfields,917,6956.455773024
+2019,4 Western,Colac-Otway,1320,6121.881087098
+2019,4 Western,Corangamite,487,3040.519448086
+2019,4 Western,Gannawarra,581,5549.718215684
+2019,4 Western,Glenelg,956,4859.946113568
+2019,4 Western,Golden Plains,510,2149.903043588
+2019,4 Western,Greater Bendigo,8092,6852.342684879
+2019,4 Western,Greater Geelong,15777,6092.964338954
+2019,4 Western,Hepburn,619,3875.289551118
+2019,4 Western,Hindmarsh,249,4457.572502685
+2019,4 Western,Horsham,1436,7208.835341365
+2019,4 Western,Loddon,386,5145.29458811
+2019,4 Western,Macedon Ranges,1782,3547.680668923
+2019,4 Western,Mildura,5493,9847.792179853
+2019,4 Western,Moorabool,1633,4658.925565604
+2019,4 Western,Mount Alexander,751,3802.33912207
+2019,4 Western,Moyne,458,2701.746106654
+2019,4 Western,Northern Grampians,762,6683.624243487
+2019,4 Western,Pyrenees,419,5609.103078983
+2019,4 Western,Queenscliffe,118,4014.971078598
+2019,4 Western,Southern Grampians,1108,6882.842589142
+2019,4 Western,Surf Coast,899,2687.031114565
+2019,4 Western,Swan Hill,1868,9046.004842615
+2019,4 Western,Warrnambool,3007,8547.227196498
+2019,4 Western,West Wimmera,125,3256.056264652
+2019,4 Western,Yarriambiack,320,4821.455476872
+2019,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities,1483,
+2019,Unincorporated Vic,Unincorporated Vic,95,
