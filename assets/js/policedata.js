@@ -1,7 +1,14 @@
-// Variable declarations 
+//-- =============================================================================
+//-- Project3
+//--
+//-- Date:      8-Sept-2022 
+//-- ============================================================================= 
+
+
+// Reading the input CSV file for the data analysis 
 var data = 'Outputs/offence_summary_df.csv'
 
-// find tbody in html
+// Finding the tbody in policedata.html to insert the table
 let tbody = d3.select("tbody");
 
 // defining filter as an array
@@ -25,7 +32,7 @@ function buildTable(data){
 }
 
 
-// LGA into dropdown
+// Populating the local government areas into the dropdown's #LGA select dropdown
 function dropdown_init() {
     var dropdown = d3.select("#lga")
     d3.csv(data)
@@ -43,14 +50,12 @@ function dropdown_init() {
 
 
 // the filterListener function will filter the results based on the date field provided on the HTML file.
-// to address: Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 function filterListener(){
     d3.event.preventDefault();
     let uyear = d3.select("#Year").property("value");
     let ulga = d3.select("#lga").property("value");
     console.log("Year entered: ", uyear);
     console.log("LGA Selected: ", ulga);
-    // this will work if you provide all of the information
     filters["Year"] = uyear;
     filters["lga"] = ulga;
     console.log("Filters selected", filters);
@@ -62,6 +67,8 @@ function filterListener(){
                  var filteredTable = Object.values(res).filter((row) => row.lga_name === ulga && 
                  row.year === uyear
                  );
+
+// this commented out code was something that I experimented before with and didn't want to lose, so I left it here:
 //                Object.entries(filters).forEach(([key,value])=> {
 //                var filteredTable =  Object.values(res).filter(row => row[key]=== value);
 
@@ -88,7 +95,7 @@ function filterListener(){
 d3.selectAll("#filter-btn").on('click', filterListener);
 
 
-
+// Plotting function to display a horizontal bar chart (MUST HAVE both year and local government area provided)
 function ploty(kutyu) {
     let ulga = d3.select("#lga").property("value");
     let uyear = d3.select("#Year").property("value");
@@ -127,6 +134,6 @@ function ploty(kutyu) {
 }
 
 
-
+// Main program
     dropdown_init();
     buildTable(data);
