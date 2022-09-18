@@ -6,7 +6,7 @@
 
 
 // Reading the input CSV file for the data analysis 
-var data = 'Outputs/offence_summary_df.csv'
+var data = "/api/getOffenceSummary"
 
 // Finding the tbody in policedata.html to insert the table
 let tbody = d3.select("tbody");

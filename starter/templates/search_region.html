@@ -3,7 +3,7 @@
 <!--                                                            -->
 <!-- Issue:       29-Aug-2022                                   -->
 <!-- Presentation:12-Sep-2022                                   -->
-<!-- Submission:  19-Sep-2022                                   -->  
+<!-- Due:         19-Sep-2022                                   -->  
 <!-- Note:        Heroku deployment                             -->
 <!-- ===========================================================-->
 <!DOCTYPE html>
@@ -15,7 +15,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Victoria Crime Data Visualization</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/style3.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <style>
     h4 {text-align: center;}
@@ -26,25 +26,43 @@
 <body>
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-centre"  >
-        <h1 style="color: #a44d0bf3;">Victoria Crime Data Visualization</h1>
+
+      <div class="col-md-12 jumbotron text-centre"   >
+        <h1 style="color: rgba(164, 77, 11, 0.954);">Victoria Crime Data Visualization</h1>
       </div>
     </div>
-    <div class="row">
-      <div class="col-xs-12  col-md-9">
-        <div class="article">
-          <h3 style="color: blue">Welcome to explore Victorian Crime Incident Data</h3>
-          <br>
-          <h4>You can navigate to different webpage to see different view of the data as below:
-          <h6>- Enter 'api/searchRegion' to see crime data in different years and regions.
-            - Enter 'api/compareRegion' to see region comparision by year.
-            - Enter 'api/searchLGA' to see Local Government Area by year.
-          </h6>
-          <p></p>
-          <p></p>
-        </div>
+    <div class="row">   
+      <!-- dropdown lists and search button -->
+      <div class="col-md-4">
+          
+        <div class="panel panel-primary" style="background-color:(rgba(191, 188, 188, 0.569)); display: flex; ">
+          <h4><strong>Year:</strong></h4>
+          <select id="selYear" onchange="optionChanged(this.value)" style="background-color:(rgba(191, 188, 188, 0.569)); display: flex; "></select>
+        </div>  
       </div>
-    </div>   
+      <div class="col-md-5">
+        <div class="panel panel-primary" style="background-color:(rgba(191, 188, 188, 0.569)); display: flex; ">
+          <h4><strong>Police Region:</strong></h4>
+          <select id="selDataset" onchange="optionChanged(this.value)" style="background-color:(rgba(191, 188, 188, 0.569)); display: flex; "></select>
+        </div>                      
+      </div>
+      <div class="col-md-3">
+        <button id="filter-btn" type="button" class="btn btn-default" style="background-color:(rgba(191, 188, 188, 0.569)); display: flex; "><strong>Search...</strong></button>
+      </div>
+    </div>
+
+    <!-- Bar chart  -->
+    <div class="row">
+      <div class="col-md-12" padding=20px style="display: flex;">   
+          <canvas id="bar-chart"> </canvas>
+      </div>    
+    </div>
+    <!-- Bubble chart -->
+    <div class="row">
+      <div class="col-md-10" style="display: flex;">    
+          <div id="bubble-chart"> </div> 
+      </div>
+    </div>    
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
