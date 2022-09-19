@@ -7,7 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/policedata.css"> 
+<!--   <link rel="stylesheet" href="static/css/policedata.css">  -->
+<link rel="stylesheet" href="{{ url_for('static', filename='css/policedata.css') }}">
+
   
 </head>
 
@@ -17,7 +19,6 @@
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="navbar-brand" href="policedata.html">Police data
-            <!-- <img class="nav-ufo" src="static/images/ufo.svg"> -->
           </a>
         </div>
       </div>
@@ -87,7 +88,9 @@
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="assets/js/policedata.js"></script>
+<!--  <script src="static/js/policedata.js"></script>-->
+  <script src="{{ url_for('static', filename='js/policedata.js') }}"></script>
+
 </body>
 
 </html>
