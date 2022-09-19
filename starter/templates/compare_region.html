@@ -18,38 +18,32 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style3.css') }}">
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <style>
-  <!---->  h4 {text-align: center;} -->
+    h4 {text-align: center;}
+    p {text-align: center;}
   </style>
 </head>
 
 <body>
   <div class="container">
     <div class="row">
+
       <div class="col-md-12 jumbotron text-centre"  >
         <h1 style="color: #a44d0bf3;">Victoria Crime Data Visualization</h1>
       </div>
     </div>
+    <!-- pie chart  -->
     <div class="row">
-      <div class="col-xs-12  col-md-9">
-        <div class="article">
-          <h3 style="color: blue"><strong>Welcome to explore Victoria Crime Data Visualisation</strong></h3>
-          <br>
-          <h4><strong>You can navigate to different webpages to see different perspectives of the data:</strong><br>
-          <h4><strong></strong>- Enter 'api/searchRegion' to see crime data in different years and regions.<br>
-            - Enter 'api/compareRegion' to see region comparision by year.<br>
-            - Enter 'api/searchLGA' to see Local Government Area by year.<br>
-          </h4>
-        </div>
-      </div>
-    </div>   
-  </div>
+      <h3>Regional Incidents for years 2019-2022</h3>
+      <canvas id="bar-chart"></canvas>
+    </div>
+  </div> <!-- Container -->
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="{{ url_for('static', filename='js/app-search.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/app-compare.js') }}"></script>
   
 </body>
 
