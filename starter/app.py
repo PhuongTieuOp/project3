@@ -47,19 +47,9 @@ def search():
 def compare():
     return render_template("compare_region.html")
 
-<<<<<<< HEAD
-# @app.route("/api/searchLGA")
-# def search():
-#     return render_template("search_lga.html")
-=======
 @app.route("/api/policeData")
 def policedata():
     return render_template("policedata.html")
-
-# @app.route("/api/searchLGA")
-# def search():
-#     return render_template("search-lga.html")
->>>>>>> refs/remotes/origin/main
 
 #========================================================================
 # 5. Define routes to retrieve data from database. These routes can be used/called in any app.js
