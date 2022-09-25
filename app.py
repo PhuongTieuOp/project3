@@ -36,16 +36,12 @@ conn = engine.connect()
 # 4. Create route(s) that render template(s)
 #=======================================================================
 @app.route("/")
-def welcome():    
-    return render_template("index.html")
+def compare():
+    return render_template("compare_region.html")
 
 @app.route("/api/searchRegion")
 def search():
     return render_template("search_region.html")
-
-@app.route("/api/compareRegion")
-def compare():
-    return render_template("compare_region.html")
 
 @app.route("/api/policeData")
 def policedata():
