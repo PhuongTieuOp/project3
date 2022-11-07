@@ -1,9 +1,9 @@
-## project_3
+## Victoria Crime Analysis for year 2019-2022
 
 Website to access to our project: https://project3c.herokuapp.com/
 
 ### Project Proposal
-2017, Victoria reported the highest home burglary rate in Australia.  In 2019, we had harsh bush fire, in 2020 we had the COVID-19 outbreak, and the state was on and off lockdown until the end of September 2021.  In 2022, we gradually have had a more normal life.  With these major changes last few years, there were impacts to our livelihood household wise, income and mental changes, we would like to see how crime and safety changed between 2019 and 2022 in the state of Victoria.
+In 2019, we had harsh bush fire, in 2020 we had the COVID-19 outbreak, and the state was on and off lockdown until the end of September 2021.  In 2022, we gradually have our life back to normal.  With these major changes last few years, there were impacts to our livelihood, household wise, income changes and mental health, we would like to see how crime and safety have changed between 2019 and 2022 in the state of Victoria.
 
 ### Data Visualisation Webpages:
 
